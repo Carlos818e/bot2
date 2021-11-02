@@ -4,7 +4,7 @@ const downloader = (prefix, botName, ownerName) => {
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: OWNER_NAME
+  ❏ Creator: _Carlos Duarte_
 ◪ *ABOUT*
   │
   ├─ ❏ ${prefix}info
